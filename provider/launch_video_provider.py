@@ -1,5 +1,5 @@
 #! /usr/local/bin/python
 
 class LaunchVideoCmdProvider:
-    def launchVideo(channel_name):
+    def launchVideo(self, channel_name):
         return
