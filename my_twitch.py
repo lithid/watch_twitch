@@ -1,4 +1,4 @@
-#! /usr/local/bin/python
+#! /usr/local/bin/python3
 
 from provider.twitch_client_provider_impl import TwitchClientProviderImpl
 from provider.launch_video_provider_impl import LaunchVideoCmdProviderImpl
