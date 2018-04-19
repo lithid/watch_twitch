@@ -1,0 +1,3 @@
+#!/usr/local/bin/bash
+$HOME/Projects/watch_twitch/my_twitch.py
+exit 0
